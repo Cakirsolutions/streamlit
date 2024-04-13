@@ -5,7 +5,7 @@ def set_page_config():
     icon_path = "animations/icon2.png"
 
     st.set_page_config(
-        page_title="PMO Dashboard",
+        page_title="Cakir",
         page_icon=icon_path,
         layout="wide",
         initial_sidebar_state='expanded'
