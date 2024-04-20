@@ -2,10 +2,10 @@ import streamlit as st
 from PIL import Image
 
 def set_page_config():
-    icon_path = "animations/icon2.png"
+    icon_path = "icons/cakir.png"
 
     st.set_page_config(
-        page_title="Cakir",
+        page_title="Cakirsolutions",
         page_icon=icon_path,
         layout="wide",
         initial_sidebar_state='expanded'
